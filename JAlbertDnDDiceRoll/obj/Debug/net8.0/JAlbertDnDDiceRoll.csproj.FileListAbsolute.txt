@@ -1,0 +1,15 @@
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\bin\Debug\net8.0\JAlbertDnDDiceRoll.exe
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\bin\Debug\net8.0\JAlbertDnDDiceRoll.deps.json
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\bin\Debug\net8.0\JAlbertDnDDiceRoll.runtimeconfig.json
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\bin\Debug\net8.0\JAlbertDnDDiceRoll.dll
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\bin\Debug\net8.0\JAlbertDnDDiceRoll.pdb
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\JAlbertDnDDiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\JAlbertDnDDiceRoll.AssemblyInfoInputs.cache
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\JAlbertDnDDiceRoll.AssemblyInfo.cs
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\JAlbertDnDDiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\JAlbertDnDDiceRoll.sourcelink.json
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\JAlbertDnDDiceRoll.dll
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\refint\JAlbertDnDDiceRoll.dll
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\JAlbertDnDDiceRoll.pdb
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\JAlbertDnDDiceRoll.genruntimeconfig.cache
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\JAlbertDnDDiceRoll\obj\Debug\net8.0\ref\JAlbertDnDDiceRoll.dll
