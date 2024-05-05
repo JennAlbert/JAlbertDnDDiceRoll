@@ -19,6 +19,7 @@ while (loopContinue)
             }
             break;
 
+
         case "D6":
             {
                 if (userInput == "D6")

@@ -1,0 +1,17 @@
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\bin\Debug\net8.0-windows\DnDDiceRollTwo.exe
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\bin\Debug\net8.0-windows\DnDDiceRollTwo.deps.json
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\bin\Debug\net8.0-windows\DnDDiceRollTwo.runtimeconfig.json
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\bin\Debug\net8.0-windows\DnDDiceRollTwo.dll
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\bin\Debug\net8.0-windows\DnDDiceRollTwo.pdb
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.DnDDiceRoll.resources
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.csproj.GenerateResource.cache
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.AssemblyInfoInputs.cache
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.AssemblyInfo.cs
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.sourcelink.json
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.dll
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\refint\DnDDiceRollTwo.dll
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.pdb
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\DnDDiceRollTwo.genruntimeconfig.cache
+C:\Users\jenni\OneDrive\Projects\DnDDiceRoll\DnDDiceRollTwo\obj\Debug\net8.0-windows\ref\DnDDiceRollTwo.dll

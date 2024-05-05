@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jenni\\OneDrive\\Projects\\DnDDiceRoll\\DnDDiceRollTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18681FAC-E065-4C24-922D-725391953C5F}|DnDDiceRollTwo.csproj|c:\\users\\jenni\\onedrive\\projects\\dnddiceroll\\dnddicerolltwo\\dnddiceroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18681FAC-E065-4C24-922D-725391953C5F}|DnDDiceRollTwo.csproj|solutionrelative:dnddiceroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18681FAC-E065-4C24-922D-725391953C5F}|DnDDiceRollTwo.csproj|C:\\Users\\jenni\\OneDrive\\Projects\\DnDDiceRoll\\DnDDiceRollTwo\\dnddiceroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18681FAC-E065-4C24-922D-725391953C5F}|DnDDiceRollTwo.csproj|solutionrelative:dnddiceroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DnDDiceRoll.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Projects\\DnDDiceRoll\\DnDDiceRollTwo\\DnDDiceRoll.cs",
+              "RelativeDocumentMoniker": "DnDDiceRoll.cs",
+              "ToolTip": "C:\\Users\\jenni\\OneDrive\\Projects\\DnDDiceRoll\\DnDDiceRollTwo\\DnDDiceRoll.cs",
+              "RelativeToolTip": "DnDDiceRoll.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:29:02.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DnDDiceRoll.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Projects\\DnDDiceRoll\\DnDDiceRollTwo\\DnDDiceRoll.cs",
+              "RelativeDocumentMoniker": "DnDDiceRoll.cs",
+              "ToolTip": "C:\\Users\\jenni\\OneDrive\\Projects\\DnDDiceRoll\\DnDDiceRollTwo\\DnDDiceRoll.cs [Design]",
+              "RelativeToolTip": "DnDDiceRoll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:17:40.916Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

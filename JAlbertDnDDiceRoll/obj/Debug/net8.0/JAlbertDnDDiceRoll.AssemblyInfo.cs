@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JAlbertDnDDiceRoll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ceb90f3f381878767f59cd406f23485803cf665")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+329eced34f763d44af31fbec789c647743a3de97")]
 [assembly: System.Reflection.AssemblyProductAttribute("JAlbertDnDDiceRoll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JAlbertDnDDiceRoll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
