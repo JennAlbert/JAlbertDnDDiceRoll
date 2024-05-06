@@ -39,9 +39,10 @@
             // 
             // dFourDiceRoll
             // 
-            dFourDiceRoll.Location = new Point(86, 90);
+            dFourDiceRoll.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dFourDiceRoll.Location = new Point(147, 40);
             dFourDiceRoll.Name = "dFourDiceRoll";
-            dFourDiceRoll.Size = new Size(94, 29);
+            dFourDiceRoll.Size = new Size(94, 79);
             dFourDiceRoll.TabIndex = 0;
             dFourDiceRoll.Text = "D4";
             dFourDiceRoll.UseVisualStyleBackColor = true;
@@ -49,9 +50,10 @@
             // 
             // dSixDiceRoll
             // 
-            dSixDiceRoll.Location = new Point(241, 90);
+            dSixDiceRoll.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dSixDiceRoll.Location = new Point(351, 40);
             dSixDiceRoll.Name = "dSixDiceRoll";
-            dSixDiceRoll.Size = new Size(94, 29);
+            dSixDiceRoll.Size = new Size(94, 79);
             dSixDiceRoll.TabIndex = 1;
             dSixDiceRoll.Text = "D6";
             dSixDiceRoll.UseVisualStyleBackColor = true;
@@ -59,9 +61,10 @@
             // 
             // dEightDiceRoll
             // 
-            dEightDiceRoll.Location = new Point(419, 90);
+            dEightDiceRoll.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dEightDiceRoll.Location = new Point(524, 40);
             dEightDiceRoll.Name = "dEightDiceRoll";
-            dEightDiceRoll.Size = new Size(94, 29);
+            dEightDiceRoll.Size = new Size(94, 79);
             dEightDiceRoll.TabIndex = 2;
             dEightDiceRoll.Text = "D8";
             dEightDiceRoll.UseVisualStyleBackColor = true;
@@ -69,9 +72,10 @@
             // 
             // dTenDiceRoll
             // 
-            dTenDiceRoll.Location = new Point(617, 90);
+            dTenDiceRoll.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dTenDiceRoll.Location = new Point(147, 282);
             dTenDiceRoll.Name = "dTenDiceRoll";
-            dTenDiceRoll.Size = new Size(94, 29);
+            dTenDiceRoll.Size = new Size(94, 85);
             dTenDiceRoll.TabIndex = 3;
             dTenDiceRoll.Text = "D10";
             dTenDiceRoll.UseVisualStyleBackColor = true;
@@ -79,9 +83,10 @@
             // 
             // dTwelveDiceRoll
             // 
-            dTwelveDiceRoll.Location = new Point(174, 301);
+            dTwelveDiceRoll.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dTwelveDiceRoll.Location = new Point(351, 282);
             dTwelveDiceRoll.Name = "dTwelveDiceRoll";
-            dTwelveDiceRoll.Size = new Size(94, 29);
+            dTwelveDiceRoll.Size = new Size(94, 87);
             dTwelveDiceRoll.TabIndex = 4;
             dTwelveDiceRoll.Text = "D12";
             dTwelveDiceRoll.UseVisualStyleBackColor = true;
@@ -89,9 +94,10 @@
             // 
             // dTwentyDiceRoll
             // 
-            dTwentyDiceRoll.Location = new Point(524, 301);
+            dTwentyDiceRoll.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            dTwentyDiceRoll.Location = new Point(524, 283);
             dTwentyDiceRoll.Name = "dTwentyDiceRoll";
-            dTwentyDiceRoll.Size = new Size(94, 29);
+            dTwentyDiceRoll.Size = new Size(94, 84);
             dTwentyDiceRoll.TabIndex = 5;
             dTwentyDiceRoll.Text = "D20";
             dTwentyDiceRoll.UseVisualStyleBackColor = true;
@@ -99,7 +105,6 @@
             // 
             // diceRollResult
             // 
-            diceRollResult.AutoSize = true;
             diceRollResult.Font = new Font("Segoe Print", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
             diceRollResult.Location = new Point(138, 140);
             diceRollResult.Name = "diceRollResult";
@@ -124,7 +129,6 @@
             Name = "DnDDiceRoll";
             Text = "Form1";
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
